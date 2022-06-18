@@ -1,1 +1,2 @@
- these file contains the string
+THIS LINE UPDATED 
+these file contains the string
